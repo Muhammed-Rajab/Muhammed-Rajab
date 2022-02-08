@@ -1,16 +1,20 @@
-### Hi there 👋
+![Banner](banner.svg)
 
-<!--
-**Muhammed-Rajab/Muhammed-Rajab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ʜᴇʟʟᴏ, ᴍʏ ꜰʀɪᴇɴᴅ👋
 
-Here are some ideas to get you started:
+ɪ'ᴍ ʀᴀᴊᴀʙ, ᴀ ꜰʀɪᴇɴᴅʟʏ 🄿🅁🄾🄶🅁🄰🄼🄼🄴🅁.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ɪ ❤️
+  - 🔨 ʙᴜɪʟᴅɪɴɢ 🔨
+    - ꜱᴛᴜꜰꜰ ᴜꜱɪɴɢ **ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ📜** ᴀɴᴅ **ᴘʏᴛʜᴏɴ🐍**.
+    - ᴅᴏᴘᴇ ᴀꜱꜱ🔥 **ᴀᴘɪꜱ** ᴜꜱɪɴɢ [**ꜰᴀꜱᴛᴀᴘɪ**](ʜᴛᴛᴘꜱ://ꜰᴀꜱᴛᴀᴘɪ.ᴛɪᴀɴɢᴏʟᴏ.ᴄᴏᴍ/).
+    - ꜱɪᴍᴘʟᴇ **ɢᴀᴍᴇꜱ🎮** ᴜꜱɪɴɢ **ᴊᴀᴠᴀꜱᴄʀɪᴘᴛ📜**.
+  - 🔗 ᴄᴏɴɴᴇᴄᴛɪɴɢ ᴡɪᴛʜ 🔗
+    - **ᴄʀᴇᴀᴛɪᴠᴇ💡** ᴀɴᴅ **ᴀᴍʙɪᴛɪᴏᴜs❤️** ꜰᴏʟᴋꜱ ᴏᴜᴛ ᴛʜᴇʀᴇ **ʟɪᴋᴇ ʏᴏᴜ😉**.
+  - 🤲 ꜱʜᴀʀɪɴɢ 🤲
+    - ᴀᴍᴀᴢɪɴɢ💫 ɪᴅᴇᴀꜱ💡 ᴀɴᴅ ᴘʀᴏᴊᴇᴄᴛꜱ⭐
+
+
+### 🔎 ɪ'ᴍ ʟᴏᴏᴋɪɴɢ ꜰᴏʀᴡᴀʀᴅ 🔎
+   - ꜰᴏʀ ᴏᴘᴘᴏʀᴛᴜɴɪᴛɪᴇꜱ🌟 ᴛᴏ ᴘᴜᴛ ᴍʏ ꜱᴋɪʟʟ ɪɴ ᴘʀᴀᴄᴛɪᴄᴇ🔨.
+   - ᴛᴏ ᴡᴏʀᴋ ᴡɪᴛʜ ᴀɴ ᴀᴍᴀᴢɪɴɢ ᴛᴇᴀᴍ 🤗.
