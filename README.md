@@ -29,5 +29,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammed-rajab&show_icons=true&locale=en&layout=compact" alt="muhammed-rajab" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-rajab&" alt="muhammed-rajab" /></p>
-
-<img src="./layer-2.svg">
