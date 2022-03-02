@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammed-Rajab/](https://github.com/Muhammed-Rajab/)
 
-- 💬 Ask me about **JavaScript, Python, and FastAPI**
+- 💬 Ask me about **JavaScript, Python, FastAPI and Anything**
 
 - 📫 How to reach me **muhammedrajab101@gmail.com**
 
