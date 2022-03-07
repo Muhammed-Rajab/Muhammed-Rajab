@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-rajab&" alt="muhammed-rajab" /></p>
 
 <img src="./layer-2.svg">
-Copyrights @ Muhammed Rajab 2022
+<h6 align="center">Copyrights @ Muhammed Rajab 2022</h6>
