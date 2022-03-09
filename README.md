@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, FastAPI and Backend Development**
 
-- 🤝 I’m looking for help with **BlockChain Development**
+- 🤝 I’m looking for help with **BlockChain Development and Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Muhammed-Rajab/](https://github.com/Muhammed-Rajab/)
 
